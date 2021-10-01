@@ -1,0 +1,1000 @@
+S.No,Crop,Dist_id,District,Year,Season,Season_yield,Total
+1,groundnut,1,ADILABAD,2016-2017,kharif,0,2068
+2,groundnut,11,KOMARAM BHEEM,2016-2017,kharif,0,2068
+4,groundnut,13,MANCHERIAL,2016-2017,kharif,1930,2066
+5,groundnut,21,NIRMAL,2016-2017,kharif,0,2068
+6,groundnut,22,NIZAMABAD,2016-2017,kharif,1930,2044
+7,groundnut,4,JAGTIAL,2016-2017,kharif,0,1794
+8,groundnut,23,PEDDAPALLI,2016-2017,kharif,0,2068
+9,groundnut,6,JAYASHANKAR,2016-2017,kharif,3723,2151
+10,groundnut,2,BHADRADRI,2016-2017,kharif,1930,2186
+11,groundnut,16,MAHABUBABAD,2016-2017,kharif,3723,1353
+12,groundnut,31,WARANGAL RURAL,2016-2017,kharif,3723,3265
+13,groundnut,32,WARANGAL URBAN,2016-2017,kharif,3723,2416
+14,groundnut,9,KARIMNAGAR,2016-2017,kharif,1930,2411
+15,groundnut,24,RAJANNA,2016-2017,kharif,0,2068
+16,groundnut,8,KAMAREDDY,2016-2017,kharif,0,2068
+17,groundnut,26,SANGAREDDY,2016-2017,kharif,1930,2049
+18,groundnut,14,MEDAK,2016-2017,kharif,1930,2062
+19,groundnut,27,SIDDIPET,2016-2017,kharif,1930,2066
+20,groundnut,5,JANGAON,2016-2017,kharif,3723,1516
+21,groundnut,33,YADADRI,2016-2017,kharif,1671,1736
+22,groundnut,15,MEDCHAL MALKAJG,2016-2017,kharif,0,0
+23,groundnut,3,HYDERABAD,2016-2017,kharif,0,0
+24,groundnut,25,RANGAREDDY,2016-2017,kharif,0,2068
+25,groundnut,29,VIKARABAD,2016-2017,kharif,1930,1745
+26,groundnut,12,MAHABUBNAGAR,2016-2017,kharif,1639,1844
+27,groundnut,7,JOGULAMBA,2016-2017,kharif,1639,2025
+28,groundnut,30,WANAPARTHY,2016-2017,kharif,1639,2330
+29,groundnut,18,NAGARKURNOOL,2016-2017,kharif,1639,2261
+30,groundnut,19,NALGONDA,2016-2017,kharif,1671,1463
+31,groundnut,28,SURYAPET,2016-2017,kharif,1671,1429
+32,groundnut,10,KHAMMAM,2016-2017,kharif,1930,1590
+33,groundnut,1,ADILABAD,2016-2017,rabi,2068,2068
+34,groundnut,11,KOMARAM BHEEM,2016-2017,rabi,2068,2068
+35,groundnut,13,MANCHERIAL,2016-2017,rabi,2068,2066
+36,groundnut,21,NIRMAL,2016-2017,rabi,2068,2068
+37,groundnut,22,NIZAMABAD,2016-2017,rabi,2068,2044
+38,groundnut,4,JAGTIAL,2016-2017,rabi,1794,1794
+39,groundnut,23,PEDDAPALLI,2016-2017,rabi,2068,2068
+40,groundnut,6,JAYASHANKAR,2016-2017,rabi,2068,2151
+41,groundnut,2,BHADRADRI,2016-2017,rabi,2222,2186
+42,groundnut,16,MAHABUBABAD,2016-2017,rabi,1299,1353
+43,groundnut,31,WARANGAL RURAL,2016-2017,rabi,2940,3265
+44,groundnut,32,WARANGAL URBAN,2016-2017,rabi,2068,2416
+45,groundnut,9,KARIMNAGAR,2016-2017,rabi,2411,2411
+46,groundnut,24,RAJANNA,2016-2017,rabi,2068,2068
+47,groundnut,8,KAMAREDDY,2016-2017,rabi,2068,2068
+48,groundnut,26,SANGAREDDY,2016-2017,rabi,2068,2049
+49,groundnut,14,MEDAK,2016-2017,rabi,2068,2062
+50,groundnut,27,SIDDIPET,2016-2017,rabi,2068,2066
+51,groundnut,5,JANGAON,2016-2017,rabi,1371,1516
+52,groundnut,33,YADADRI,2016-2017,rabi,2068,1736
+53,groundnut,15,MEDCHAL MALKAJG,2016-2017,rabi,0,0
+54,groundnut,3,HYDERABAD,2016-2017,rabi,0,0
+55,groundnut,25,RANGAREDDY,2016-2017,rabi,2068,2068
+56,groundnut,29,VIKARABAD,2016-2017,rabi,1744,1745
+57,groundnut,12,MAHABUBNAGAR,2016-2017,rabi,1847,1844
+58,groundnut,7,JOGULAMBA,2016-2017,rabi,2391,2025
+59,groundnut,30,WANAPARTHY,2016-2017,rabi,2391,2330
+60,groundnut,18,NAGARKURNOOL,2016-2017,rabi,2280,2261
+61,groundnut,19,NALGONDA,2016-2017,rabi,1307,1463
+62,groundnut,28,SURYAPET,2016-2017,rabi,1322,1429
+63,groundnut,10,KHAMMAM,2016-2017,rabi,1560,1590
+64,maize,1,ADILABAD,2016-2017,kharif,3456,5712
+65,maize,11,KOMARAM BHEEM,2016-2017,kharif,3456,4917
+66,maize,13,MANCHERIAL,2016-2017,kharif,3456,5410
+67,maize,21,NIRMAL,2016-2017,kharif,3456,6300
+68,maize,22,NIZAMABAD,2016-2017,kharif,5265,5433
+69,maize,4,JAGTIAL,2016-2017,kharif,4542,5251
+70,maize,23,PEDDAPALLI,2016-2017,kharif,4542,6306
+71,maize,6,JAYASHANKAR,2016-2017,kharif,4250,5103
+72,maize,2,BHADRADRI,2016-2017,kharif,4173,6076
+73,maize,16,MAHABUBABAD,2016-2017,kharif,4250,4966
+74,maize,31,WARANGAL RURAL,2016-2017,kharif,4250,6999
+75,maize,32,WARANGAL URBAN,2016-2017,kharif,4250,6052
+76,maize,9,KARIMNAGAR,2016-2017,kharif,4542,6316
+77,maize,24,RAJANNA,2016-2017,kharif,4542,4963
+78,maize,8,KAMAREDDY,2016-2017,kharif,5265,4916
+79,maize,26,SANGAREDDY,2016-2017,kharif,2518,2666
+80,maize,14,MEDAK,2016-2017,kharif,2518,2940
+81,maize,27,SIDDIPET,2016-2017,kharif,2518,2750
+82,maize,5,JANGAON,2016-2017,kharif,4250,4766
+83,maize,33,YADADRI,2016-2017,kharif,1888,1927
+84,maize,15,MEDCHAL MALKAJG,2016-2017,kharif,3143,3293
+85,maize,3,HYDERABAD,2016-2017,kharif,0,0
+86,maize,25,RANGAREDDY,2016-2017,kharif,3143,3132
+87,maize,29,VIKARABAD,2016-2017,kharif,3143,3231
+88,maize,12,MAHABUBNAGAR,2016-2017,kharif,1091,1143
+89,maize,7,JOGULAMBA,2016-2017,kharif,1091,1950
+90,maize,30,WANAPARTHY,2016-2017,kharif,1091,1162
+91,maize,18,NAGARKURNOOL,2016-2017,kharif,1091,1116
+92,maize,19,NALGONDA,2016-2017,kharif,1888,2630
+93,maize,28,SURYAPET,2016-2017,kharif,1888,5651
+94,maize,10,KHAMMAM,2016-2017,kharif,4173,5581
+95,maize,1,ADILABAD,2016-2017,rabi,6805,5712
+96,maize,11,KOMARAM BHEEM,2016-2017,rabi,6805,4917
+97,maize,13,MANCHERIAL,2016-2017,rabi,7511,5410
+98,maize,21,NIRMAL,2016-2017,rabi,8158,6300
+99,maize,22,NIZAMABAD,2016-2017,rabi,5830,5433
+100,maize,4,JAGTIAL,2016-2017,rabi,6819,5251
+101,maize,23,PEDDAPALLI,2016-2017,rabi,9476,6306
+102,maize,6,JAYASHANKAR,2016-2017,rabi,5985,5103
+103,maize,2,BHADRADRI,2016-2017,rabi,8707,6076
+104,maize,16,MAHABUBABAD,2016-2017,rabi,6943,4966
+105,maize,31,WARANGAL RURAL,2016-2017,rabi,10356,6999
+106,maize,32,WARANGAL URBAN,2016-2017,rabi,7345,6052
+107,maize,9,KARIMNAGAR,2016-2017,rabi,8354,6316
+108,maize,24,RAJANNA,2016-2017,rabi,7285,4963
+109,maize,8,KAMAREDDY,2016-2017,rabi,4460,4916
+110,maize,26,SANGAREDDY,2016-2017,rabi,4143,2666
+111,maize,14,MEDAK,2016-2017,rabi,4272,2940
+112,maize,27,SIDDIPET,2016-2017,rabi,4515,2750
+113,maize,5,JANGAON,2016-2017,rabi,5919,4766
+114,maize,33,YADADRI,2016-2017,rabi,6805,1927
+115,maize,15,MEDCHAL MALKAJG,2016-2017,rabi,6805,3293
+116,maize,3,HYDERABAD,2016-2017,rabi,0,0
+117,maize,25,RANGAREDDY,2016-2017,rabi,2719,3132
+118,maize,29,VIKARABAD,2016-2017,rabi,6805,3231
+119,maize,12,MAHABUBNAGAR,2016-2017,rabi,6805,1143
+120,maize,7,JOGULAMBA,2016-2017,rabi,6805,1950
+121,maize,30,WANAPARTHY,2016-2017,rabi,6805,1162
+122,maize,18,NAGARKURNOOL,2016-2017,rabi,6805,1116
+123,maize,19,NALGONDA,2016-2017,rabi,6805,2630
+124,maize,28,SURYAPET,2016-2017,rabi,6805,5651
+125,maize,10,KHAMMAM,2016-2017,rabi,6209,5581
+126,bengal gram,1,ADILABAD,2016-2017,kharif,0,1551
+127,bengal gram,11,KOMARAM BHEEM,2016-2017,kharif,0,1881
+128,bengal gram,13,MANCHERIAL,2016-2017,kharif,0,1299
+129,bengal gram,21,NIRMAL,2016-2017,kharif,0,1173
+130,bengal gram,22,NIZAMABAD,2016-2017,kharif,0,1558
+131,bengal gram,4,JAGTIAL,2016-2017,kharif,0,1299
+132,bengal gram,23,PEDDAPALLI,2016-2017,kharif,0,1299
+133,bengal gram,6,JAYASHANKAR,2016-2017,kharif,0,1299
+134,bengal gram,2,BHADRADRI,2016-2017,kharif,0,0
+135,bengal gram,16,MAHABUBABAD,2016-2017,kharif,0,1299
+136,bengal gram,31,WARANGAL RURAL,2016-2017,kharif,0,1299
+137,bengal gram,32,WARANGAL URBAN,2016-2017,kharif,0,1299
+138,bengal gram,9,KARIMNAGAR,2016-2017,kharif,0,1299
+139,bengal gram,24,RAJANNA,2016-2017,kharif,0,1299
+140,bengal gram,8,KAMAREDDY,2016-2017,kharif,0,1340
+141,bengal gram,26,SANGAREDDY,2016-2017,kharif,0,1421
+142,bengal gram,14,MEDAK,2016-2017,kharif,0,1060
+143,bengal gram,27,SIDDIPET,2016-2017,kharif,0,1423
+144,bengal gram,5,JANGAON,2016-2017,kharif,0,1299
+145,bengal gram,33,YADADRI,2016-2017,kharif,0,1299
+146,bengal gram,15,MEDCHAL MALKAJG,2016-2017,kharif,0,1299
+147,bengal gram,3,HYDERABAD,2016-2017,kharif,0,0
+148,bengal gram,25,RANGAREDDY,2016-2017,kharif,0,1477
+149,bengal gram,29,VIKARABAD,2016-2017,kharif,0,1576
+150,bengal gram,12,MAHABUBNAGAR,2016-2017,kharif,0,1299
+151,bengal gram,7,JOGULAMBA,2016-2017,kharif,0,657
+152,bengal gram,30,WANAPARTHY,2016-2017,kharif,0,1299
+153,bengal gram,18,NAGARKURNOOL,2016-2017,kharif,0,1299
+154,bengal gram,19,NALGONDA,2016-2017,kharif,0,1299
+155,bengal gram,28,SURYAPET,2016-2017,kharif,0,1299
+156,bengal gram,10,KHAMMAM,2016-2017,kharif,0,1299
+157,bengal gram,1,ADILABAD,2016-2017,rabi,1551,1551
+158,bengal gram,11,KOMARAM BHEEM,2016-2017,rabi,1881,1881
+159,bengal gram,13,MANCHERIAL,2016-2017,rabi,1299,1299
+160,bengal gram,21,NIRMAL,2016-2017,rabi,1173,1173
+161,bengal gram,22,NIZAMABAD,2016-2017,rabi,1558,1558
+162,bengal gram,4,JAGTIAL,2016-2017,rabi,1299,1299
+163,bengal gram,23,PEDDAPALLI,2016-2017,rabi,1299,1299
+164,bengal gram,6,JAYASHANKAR,2016-2017,rabi,1299,1299
+165,bengal gram,2,BHADRADRI,2016-2017,rabi,0,0
+166,bengal gram,16,MAHABUBABAD,2016-2017,rabi,1299,1299
+167,bengal gram,31,WARANGAL RURAL,2016-2017,rabi,1299,1299
+168,bengal gram,32,WARANGAL URBAN,2016-2017,rabi,1299,1299
+169,bengal gram,9,KARIMNAGAR,2016-2017,rabi,1299,1299
+170,bengal gram,24,RAJANNA,2016-2017,rabi,1299,1299
+171,bengal gram,8,KAMAREDDY,2016-2017,rabi,1340,1340
+172,bengal gram,26,SANGAREDDY,2016-2017,rabi,1421,1421
+173,bengal gram,14,MEDAK,2016-2017,rabi,1060,1060
+174,bengal gram,27,SIDDIPET,2016-2017,rabi,1423,1423
+175,bengal gram,5,JANGAON,2016-2017,rabi,1299,1299
+176,bengal gram,33,YADADRI,2016-2017,rabi,1299,1299
+177,bengal gram,15,MEDCHAL MALKAJG,2016-2017,rabi,1299,1299
+178,bengal gram,3,HYDERABAD,2016-2017,rabi,0,0
+179,bengal gram,25,RANGAREDDY,2016-2017,rabi,1477,1477
+180,bengal gram,29,VIKARABAD,2016-2017,rabi,1576,1576
+181,bengal gram,12,MAHABUBNAGAR,2016-2017,rabi,1299,1299
+182,bengal gram,7,JOGULAMBA,2016-2017,rabi,657,657
+183,bengal gram,30,WANAPARTHY,2016-2017,rabi,1299,1299
+184,bengal gram,18,NAGARKURNOOL,2016-2017,rabi,1299,1299
+185,bengal gram,19,NALGONDA,2016-2017,rabi,1299,1299
+186,bengal gram,28,SURYAPET,2016-2017,rabi,1299,1299
+187,bengal gram,10,KHAMMAM,2016-2017,rabi,1299,1299
+188,groundnut,1,ADILABAD,2017-2018,kharif,0,2236
+189,groundnut,11,KOMARAM BHEEM,2017-2018,kharif,0,0
+190,groundnut,13,MANCHERIAL,2017-2018,kharif,2188,2237
+191,groundnut,21,NIRMAL,2017-2018,kharif,0,2236
+192,groundnut,22,NIZAMABAD,2017-2018,kharif,2188,2226
+193,groundnut,4,JAGTIAL,2017-2018,kharif,0,1453
+194,groundnut,23,PEDDAPALLI,2017-2018,kharif,0,2236
+195,groundnut,6,JAYASHANKAR,2017-2018,kharif,2188,1792
+196,groundnut,2,BHADRADRI,2017-2018,kharif,2188,2815
+197,groundnut,16,MAHABUBABAD,2017-2018,kharif,2188,1526
+198,groundnut,31,WARANGAL RURAL,2017-2018,kharif,4016,3281
+199,groundnut,32,WARANGAL URBAN,2017-2018,kharif,2188,2230
+200,groundnut,9,KARIMNAGAR,2017-2018,kharif,2188,1603
+201,groundnut,24,RAJANNA,2017-2018,kharif,0,2236
+202,groundnut,8,KAMAREDDY,2017-2018,kharif,0,2236
+203,groundnut,26,SANGAREDDY,2017-2018,kharif,0,2236
+204,groundnut,14,MEDAK,2017-2018,kharif,2188,2229
+205,groundnut,27,SIDDIPET,2017-2018,kharif,2188,1760
+206,groundnut,5,JANGAON,2017-2018,kharif,2188,1769
+207,groundnut,33,YADADRI,2017-2018,kharif,2188,2207
+208,groundnut,15,MEDCHAL MALKAJG,2017-2018,kharif,0,0
+209,groundnut,3,HYDERABAD,2017-2018,kharif,0,0
+210,groundnut,25,RANGAREDDY,2017-2018,kharif,0,3023
+211,groundnut,29,VIKARABAD,2017-2018,kharif,2188,2045
+212,groundnut,12,MAHABUBNAGAR,2017-2018,kharif,2188,2332
+213,groundnut,7,JOGULAMBA,2017-2018,kharif,1918,2363
+214,groundnut,30,WANAPARTHY,2017-2018,kharif,1969,2141
+215,groundnut,18,NAGARKURNOOL,2017-2018,kharif,1527,2300
+216,groundnut,19,NALGONDA,2017-2018,kharif,1102,1932
+217,groundnut,28,SURYAPET,2017-2018,kharif,1277,1928
+218,groundnut,10,KHAMMAM,2017-2018,kharif,2188,2126
+219,groundnut,1,ADILABAD,2017-2018,rabi,2236,2236
+220,groundnut,11,KOMARAM BHEEM,2017-2018,rabi,0,0
+221,groundnut,13,MANCHERIAL,2017-2018,rabi,2236,2237
+222,groundnut,21,NIRMAL,2017-2018,rabi,2236,2236
+223,groundnut,22,NIZAMABAD,2017-2018,rabi,2236,2226
+224,groundnut,4,JAGTIAL,2017-2018,rabi,1453,1453
+225,groundnut,23,PEDDAPALLI,2017-2018,rabi,2236,2236
+226,groundnut,6,JAYASHANKAR,2017-2018,rabi,1765,1792
+227,groundnut,2,BHADRADRI,2017-2018,rabi,3042,2815
+228,groundnut,16,MAHABUBABAD,2017-2018,rabi,1513,1526
+229,groundnut,31,WARANGAL RURAL,2017-2018,rabi,2672,3281
+230,groundnut,32,WARANGAL URBAN,2017-2018,rabi,2236,2230
+231,groundnut,9,KARIMNAGAR,2017-2018,rabi,1477,1603
+232,groundnut,24,RAJANNA,2017-2018,rabi,2236,2236
+233,groundnut,8,KAMAREDDY,2017-2018,rabi,2236,2236
+234,groundnut,26,SANGAREDDY,2017-2018,rabi,2236,2236
+235,groundnut,14,MEDAK,2017-2018,rabi,2236,2229
+236,groundnut,27,SIDDIPET,2017-2018,rabi,1750,1760
+237,groundnut,5,JANGAON,2017-2018,rabi,1658,1769
+238,groundnut,33,YADADRI,2017-2018,rabi,2236,2207
+239,groundnut,15,MEDCHAL MALKAJG,2017-2018,rabi,0,0
+240,groundnut,3,HYDERABAD,2017-2018,rabi,0,0
+241,groundnut,25,RANGAREDDY,2017-2018,rabi,3023,3023
+242,groundnut,29,VIKARABAD,2017-2018,rabi,2043,2045
+243,groundnut,12,MAHABUBNAGAR,2017-2018,rabi,2337,2332
+244,groundnut,7,JOGULAMBA,2017-2018,rabi,2834,2363
+245,groundnut,30,WANAPARTHY,2017-2018,rabi,2159,2141
+246,groundnut,18,NAGARKURNOOL,2017-2018,rabi,2317,2300
+247,groundnut,19,NALGONDA,2017-2018,rabi,1993,1932
+248,groundnut,28,SURYAPET,2017-2018,rabi,2086,1928
+249,groundnut,10,KHAMMAM,2017-2018,rabi,2122,2126
+250,maize,1,ADILABAD,2017-2018,kharif,3450,9282
+251,maize,11,KOMARAM BHEEM,2017-2018,kharif,3450,4558
+252,maize,13,MANCHERIAL,2017-2018,kharif,3450,3965
+253,maize,21,NIRMAL,2017-2018,kharif,5723,7753
+254,maize,22,NIZAMABAD,2017-2018,kharif,5030,5464
+255,maize,4,JAGTIAL,2017-2018,kharif,4461,4474
+256,maize,23,PEDDAPALLI,2017-2018,kharif,6916,8924
+257,maize,6,JAYASHANKAR,2017-2018,kharif,7004,9023
+258,maize,2,BHADRADRI,2017-2018,kharif,4125,5478
+259,maize,16,MAHABUBABAD,2017-2018,kharif,5332,5717
+260,maize,31,WARANGAL RURAL,2017-2018,kharif,6967,7716
+261,maize,32,WARANGAL URBAN,2017-2018,kharif,5533,6851
+262,maize,9,KARIMNAGAR,2017-2018,kharif,4677,6026
+263,maize,24,RAJANNA,2017-2018,kharif,2852,3122
+264,maize,8,KAMAREDDY,2017-2018,kharif,5352,5300
+265,maize,26,SANGAREDDY,2017-2018,kharif,3549,3610
+266,maize,14,MEDAK,2017-2018,kharif,3707,3929
+267,maize,27,SIDDIPET,2017-2018,kharif,2883,3304
+268,maize,5,JANGAON,2017-2018,kharif,4880,5068
+269,maize,33,YADADRI,2017-2018,kharif,2946,3068
+270,maize,15,MEDCHAL MALKAJG,2017-2018,kharif,3450,3815
+271,maize,3,HYDERABAD,2017-2018,kharif,0,0
+272,maize,25,RANGAREDDY,2017-2018,kharif,2157,2238
+273,maize,29,VIKARABAD,2017-2018,kharif,3174,3249
+274,maize,12,MAHABUBNAGAR,2017-2018,kharif,1449,1474
+275,maize,7,JOGULAMBA,2017-2018,kharif,5640,5263
+276,maize,30,WANAPARTHY,2017-2018,kharif,3171,3199
+277,maize,18,NAGARKURNOOL,2017-2018,kharif,2012,2052
+278,maize,19,NALGONDA,2017-2018,kharif,3450,4755
+279,maize,28,SURYAPET,2017-2018,kharif,3450,6339
+280,maize,10,KHAMMAM,2017-2018,kharif,4823,6397
+281,maize,1,ADILABAD,2017-2018,rabi,10982,9282
+282,maize,11,KOMARAM BHEEM,2017-2018,rabi,6901,4558
+283,maize,13,MANCHERIAL,2017-2018,rabi,4481,3965
+284,maize,21,NIRMAL,2017-2018,rabi,8665,7753
+285,maize,22,NIZAMABAD,2017-2018,rabi,6930,5464
+286,maize,4,JAGTIAL,2017-2018,rabi,4503,4474
+287,maize,23,PEDDAPALLI,2017-2018,rabi,9713,8924
+288,maize,6,JAYASHANKAR,2017-2018,rabi,9749,9023
+289,maize,2,BHADRADRI,2017-2018,rabi,7452,5478
+290,maize,16,MAHABUBABAD,2017-2018,rabi,6672,5717
+291,maize,31,WARANGAL RURAL,2017-2018,rabi,8340,7716
+292,maize,32,WARANGAL URBAN,2017-2018,rabi,7568,6851
+293,maize,9,KARIMNAGAR,2017-2018,rabi,7372,6026
+294,maize,24,RAJANNA,2017-2018,rabi,4399,3122
+295,maize,8,KAMAREDDY,2017-2018,rabi,5222,5300
+296,maize,26,SANGAREDDY,2017-2018,rabi,4032,3610
+297,maize,14,MEDAK,2017-2018,rabi,4621,3929
+298,maize,27,SIDDIPET,2017-2018,rabi,6240,3304
+299,maize,5,JANGAON,2017-2018,rabi,5411,5068
+300,maize,33,YADADRI,2017-2018,rabi,6901,3068
+301,maize,15,MEDCHAL MALKAJG,2017-2018,rabi,6901,3815
+302,maize,3,HYDERABAD,2017-2018,rabi,0,0
+303,maize,25,RANGAREDDY,2017-2018,rabi,4238,2238
+304,maize,29,VIKARABAD,2017-2018,rabi,6901,3249
+305,maize,12,MAHABUBNAGAR,2017-2018,rabi,6901,1474
+306,maize,7,JOGULAMBA,2017-2018,rabi,3990,5263
+307,maize,30,WANAPARTHY,2017-2018,rabi,6901,3199
+308,maize,18,NAGARKURNOOL,2017-2018,rabi,6901,2052
+309,maize,19,NALGONDA,2017-2018,rabi,6901,4755
+310,maize,28,SURYAPET,2017-2018,rabi,6901,6339
+311,maize,10,KHAMMAM,2017-2018,rabi,6708,6397
+312,bengal gram,1,ADILABAD,2017-2018,kharif,0,1742
+313,bengal gram,11,KOMARAM BHEEM,2017-2018,kharif,0,1240
+314,bengal gram,13,MANCHERIAL,2017-2018,kharif,0,1516
+315,bengal gram,21,NIRMAL,2017-2018,kharif,0,1072
+316,bengal gram,22,NIZAMABAD,2017-2018,kharif,0,1675
+317,bengal gram,4,JAGTIAL,2017-2018,kharif,0,1516
+318,bengal gram,23,PEDDAPALLI,2017-2018,kharif,0,1516
+319,bengal gram,6,JAYASHANKAR,2017-2018,kharif,0,1516
+320,bengal gram,2,BHADRADRI,2017-2018,kharif,0,1516
+321,bengal gram,16,MAHABUBABAD,2017-2018,kharif,0,1516
+322,bengal gram,31,WARANGAL RURAL,2017-2018,kharif,0,1516
+323,bengal gram,32,WARANGAL URBAN,2017-2018,kharif,0,1516
+324,bengal gram,9,KARIMNAGAR,2017-2018,kharif,0,1516
+325,bengal gram,24,RAJANNA,2017-2018,kharif,0,1516
+326,bengal gram,8,KAMAREDDY,2017-2018,kharif,0,1687
+327,bengal gram,26,SANGAREDDY,2017-2018,kharif,0,1366
+328,bengal gram,14,MEDAK,2017-2018,kharif,0,1341
+329,bengal gram,27,SIDDIPET,2017-2018,kharif,0,1315
+330,bengal gram,5,JANGAON,2017-2018,kharif,0,1516
+331,bengal gram,33,YADADRI,2017-2018,kharif,0,1516
+332,bengal gram,15,MEDCHAL MALKAJG,2017-2018,kharif,0,1516
+333,bengal gram,3,HYDERABAD,2017-2018,kharif,0,0
+334,bengal gram,25,RANGAREDDY,2017-2018,kharif,1403,1403
+335,bengal gram,29,VIKARABAD,2017-2018,kharif,0,1440
+336,bengal gram,12,MAHABUBNAGAR,2017-2018,kharif,0,1516
+337,bengal gram,7,JOGULAMBA,2017-2018,kharif,0,1312
+338,bengal gram,30,WANAPARTHY,2017-2018,kharif,0,2132
+339,bengal gram,18,NAGARKURNOOL,2017-2018,kharif,0,1516
+340,bengal gram,19,NALGONDA,2017-2018,kharif,0,1516
+341,bengal gram,28,SURYAPET,2017-2018,kharif,0,1516
+342,bengal gram,10,KHAMMAM,2017-2018,kharif,0,1516
+343,bengal gram,1,ADILABAD,2017-2018,rabi,1742,1742
+344,bengal gram,11,KOMARAM BHEEM,2017-2018,rabi,1240,1240
+345,bengal gram,13,MANCHERIAL,2017-2018,rabi,1516,1516
+346,bengal gram,21,NIRMAL,2017-2018,rabi,1072,1072
+347,bengal gram,22,NIZAMABAD,2017-2018,rabi,1675,1675
+348,bengal gram,4,JAGTIAL,2017-2018,rabi,1516,1516
+349,bengal gram,23,PEDDAPALLI,2017-2018,rabi,1516,1516
+350,bengal gram,6,JAYASHANKAR,2017-2018,rabi,1516,1516
+351,bengal gram,2,BHADRADRI,2017-2018,rabi,1516,1516
+352,bengal gram,16,MAHABUBABAD,2017-2018,rabi,1516,1516
+353,bengal gram,31,WARANGAL RURAL,2017-2018,rabi,1516,1516
+354,bengal gram,32,WARANGAL URBAN,2017-2018,rabi,1516,1516
+355,bengal gram,9,KARIMNAGAR,2017-2018,rabi,1516,1516
+356,bengal gram,24,RAJANNA,2017-2018,rabi,1516,1516
+357,bengal gram,8,KAMAREDDY,2017-2018,rabi,1687,1687
+358,bengal gram,26,SANGAREDDY,2017-2018,rabi,1366,1366
+359,bengal gram,14,MEDAK,2017-2018,rabi,1341,1341
+360,bengal gram,27,SIDDIPET,2017-2018,rabi,1315,1315
+361,bengal gram,5,JANGAON,2017-2018,rabi,1516,1516
+362,bengal gram,33,YADADRI,2017-2018,rabi,1516,1516
+363,bengal gram,15,MEDCHAL MALKAJG,2017-2018,rabi,1516,1516
+364,bengal gram,3,HYDERABAD,2017-2018,rabi,0,0
+365,bengal gram,25,RANGAREDDY,2017-2018,rabi,1403,1403
+366,bengal gram,29,VIKARABAD,2017-2018,rabi,1440,1440
+367,bengal gram,12,MAHABUBNAGAR,2017-2018,rabi,1516,1516
+368,bengal gram,7,JOGULAMBA,2017-2018,rabi,1312,1312
+369,bengal gram,30,WANAPARTHY,2017-2018,rabi,2132,2132
+370,bengal gram,18,NAGARKURNOOL,2017-2018,rabi,1516,1516
+371,bengal gram,19,NALGONDA,2017-2018,rabi,1516,1516
+372,bengal gram,28,SURYAPET,2017-2018,rabi,1516,1516
+373,bengal gram,10,KHAMMAM,2017-2018,rabi,1516,1516
+374,groundnut,1,ADILABAD,2018-2019,kharif,2504,2489
+375,groundnut,11,KOMARAM BHEEM,2018-2019,kharif,2504,2504
+376,groundnut,13,MANCHERIAL,2018-2019,kharif,0,2489
+377,groundnut,21,NIRMAL,2018-2019,kharif,0,2489
+378,groundnut,22,NIZAMABAD,2018-2019,kharif,2504,2496
+379,groundnut,4,JAGTIAL,2018-2019,kharif,0,1427
+380,groundnut,23,PEDDAPALLI,2018-2019,kharif,0,2489
+381,groundnut,6,JAYASHANKAR,2018-2019,kharif,2504,2141
+382,groundnut,2,BHADRADRI,2018-2019,kharif,2504,2370
+383,groundnut,16,MAHABUBABAD,2018-2019,kharif,2504,1622
+384,groundnut,31,WARANGAL RURAL,2018-2019,kharif,3420,3167
+385,groundnut,32,WARANGAL URBAN,2018-2019,kharif,2504,2489
+386,groundnut,9,KARIMNAGAR,2018-2019,kharif,2504,2700
+387,groundnut,24,RAJANNA,2018-2019,kharif,0,2489
+388,groundnut,8,KAMAREDDY,2018-2019,kharif,0,2489
+389,groundnut,26,SANGAREDDY,2018-2019,kharif,2504,2491
+390,groundnut,14,MEDAK,2018-2019,kharif,2504,2491
+391,groundnut,27,SIDDIPET,2018-2019,kharif,2504,2268
+392,groundnut,5,JANGAON,2018-2019,kharif,2504,1583
+393,groundnut,33,YADADRI,2018-2019,kharif,2504,2500
+394,groundnut,15,MEDCHAL MALKAJG,2018-2019,kharif,0,0
+395,groundnut,3,HYDERABAD,2018-2019,kharif,0,0
+396,groundnut,25,RANGAREDDY,2018-2019,kharif,0,2711
+397,groundnut,29,VIKARABAD,2018-2019,kharif,2504,2458
+398,groundnut,12,MAHABUBNAGAR,2018-2019,kharif,2504,2235
+399,groundnut,7,JOGULAMBA,2018-2019,kharif,2220,2480
+400,groundnut,30,WANAPARTHY,2018-2019,kharif,1971,3073
+401,groundnut,18,NAGARKURNOOL,2018-2019,kharif,1501,2455
+402,groundnut,19,NALGONDA,2018-2019,kharif,2504,1748
+403,groundnut,28,SURYAPET,2018-2019,kharif,1776,1791
+404,groundnut,10,KHAMMAM,2018-2019,kharif,2504,2245
+405,groundnut,1,ADILABAD,2018-2019,rabi,2489,2489
+406,groundnut,11,KOMARAM BHEEM,2018-2019,rabi,0,2504
+407,groundnut,13,MANCHERIAL,2018-2019,rabi,2489,2489
+408,groundnut,21,NIRMAL,2018-2019,rabi,2489,2489
+409,groundnut,22,NIZAMABAD,2018-2019,rabi,2489,2496
+410,groundnut,4,JAGTIAL,2018-2019,rabi,1427,1427
+411,groundnut,23,PEDDAPALLI,2018-2019,rabi,2489,2489
+412,groundnut,6,JAYASHANKAR,2018-2019,rabi,2122,2141
+413,groundnut,2,BHADRADRI,2018-2019,rabi,2333,2370
+414,groundnut,16,MAHABUBABAD,2018-2019,rabi,1602,1622
+415,groundnut,31,WARANGAL RURAL,2018-2019,rabi,2884,3167
+416,groundnut,32,WARANGAL URBAN,2018-2019,rabi,2489,2489
+417,groundnut,9,KARIMNAGAR,2018-2019,rabi,2703,2700
+418,groundnut,24,RAJANNA,2018-2019,rabi,2489,2489
+419,groundnut,8,KAMAREDDY,2018-2019,rabi,2489,2489
+420,groundnut,26,SANGAREDDY,2018-2019,rabi,2489,2491
+421,groundnut,14,MEDAK,2018-2019,rabi,2489,2491
+422,groundnut,27,SIDDIPET,2018-2019,rabi,2262,2268
+423,groundnut,5,JANGAON,2018-2019,rabi,1446,1583
+424,groundnut,33,YADADRI,2018-2019,rabi,2489,2500
+425,groundnut,15,MEDCHAL MALKAJG,2018-2019,rabi,0,0
+426,groundnut,3,HYDERABAD,2018-2019,rabi,0,0
+427,groundnut,25,RANGAREDDY,2018-2019,rabi,2711,2711
+428,groundnut,29,VIKARABAD,2018-2019,rabi,2457,2458
+429,groundnut,12,MAHABUBNAGAR,2018-2019,rabi,2235,2235
+430,groundnut,7,JOGULAMBA,2018-2019,rabi,2659,2480
+431,groundnut,30,WANAPARTHY,2018-2019,rabi,3104,3073
+432,groundnut,18,NAGARKURNOOL,2018-2019,rabi,2464,2455
+433,groundnut,19,NALGONDA,2018-2019,rabi,1691,1748
+434,groundnut,28,SURYAPET,2018-2019,rabi,1795,1791
+435,groundnut,10,KHAMMAM,2018-2019,rabi,2227,2245
+436,maize,1,ADILABAD,2018-2019,kharif,3105,4790
+437,maize,11,KOMARAM BHEEM,2018-2019,kharif,4641,5053
+438,maize,13,MANCHERIAL,2018-2019,kharif,3930,4954
+439,maize,21,NIRMAL,2018-2019,kharif,6110,7544
+440,maize,22,NIZAMABAD,2018-2019,kharif,5701,5716
+441,maize,4,JAGTIAL,2018-2019,kharif,6353,5860
+442,maize,23,PEDDAPALLI,2018-2019,kharif,6613,6612
+443,maize,6,JAYASHANKAR,2018-2019,kharif,6800,7179
+444,maize,2,BHADRADRI,2018-2019,kharif,2511,3983
+445,maize,16,MAHABUBABAD,2018-2019,kharif,3432,4246
+446,maize,31,WARANGAL RURAL,2018-2019,kharif,6422,7568
+447,maize,32,WARANGAL URBAN,2018-2019,kharif,4296,5438
+448,maize,9,KARIMNAGAR,2018-2019,kharif,5667,6208
+449,maize,24,RAJANNA,2018-2019,kharif,5153,5608
+450,maize,8,KAMAREDDY,2018-2019,kharif,6170,5909
+451,maize,26,SANGAREDDY,2018-2019,kharif,3152,3130
+452,maize,14,MEDAK,2018-2019,kharif,2667,2995
+453,maize,27,SIDDIPET,2018-2019,kharif,2591,2776
+454,maize,5,JANGAON,2018-2019,kharif,5712,5611
+455,maize,33,YADADRI,2018-2019,kharif,2113,2178
+456,maize,15,MEDCHAL MALKAJG,2018-2019,kharif,2477,2886
+457,maize,3,HYDERABAD,2018-2019,kharif,0,0
+458,maize,25,RANGAREDDY,2018-2019,kharif,713,762
+459,maize,29,VIKARABAD,2018-2019,kharif,3247,3295
+460,maize,12,MAHABUBNAGAR,2018-2019,kharif,1202,1206
+461,maize,7,JOGULAMBA,2018-2019,kharif,2705,2785
+462,maize,30,WANAPARTHY,2018-2019,kharif,2954,2958
+463,maize,18,NAGARKURNOOL,2018-2019,kharif,641,667
+464,maize,19,NALGONDA,2018-2019,kharif,3105,4900
+465,maize,28,SURYAPET,2018-2019,kharif,3105,5824
+466,maize,10,KHAMMAM,2018-2019,kharif,5362,5892
+467,maize,1,ADILABAD,2018-2019,rabi,5577,4790
+468,maize,11,KOMARAM BHEEM,2018-2019,rabi,6502,5053
+469,maize,13,MANCHERIAL,2018-2019,rabi,6157,4954
+470,maize,21,NIRMAL,2018-2019,rabi,8274,7544
+471,maize,22,NIZAMABAD,2018-2019,rabi,5767,5716
+472,maize,4,JAGTIAL,2018-2019,rabi,4538,5860
+473,maize,23,PEDDAPALLI,2018-2019,rabi,6611,6612
+474,maize,6,JAYASHANKAR,2018-2019,rabi,7293,7179
+475,maize,2,BHADRADRI,2018-2019,rabi,6331,3983
+476,maize,16,MAHABUBABAD,2018-2019,rabi,6806,4246
+477,maize,31,WARANGAL RURAL,2018-2019,rabi,8787,7568
+478,maize,32,WARANGAL URBAN,2018-2019,rabi,6156,5438
+479,maize,9,KARIMNAGAR,2018-2019,rabi,6953,6208
+480,maize,24,RAJANNA,2018-2019,rabi,6719,5608
+481,maize,8,KAMAREDDY,2018-2019,rabi,4671,5909
+482,maize,26,SANGAREDDY,2018-2019,rabi,2794,3130
+483,maize,14,MEDAK,2018-2019,rabi,5145,2995
+484,maize,27,SIDDIPET,2018-2019,rabi,4372,2776
+485,maize,5,JANGAON,2018-2019,rabi,5203,5611
+486,maize,33,YADADRI,2018-2019,rabi,6502,2178
+487,maize,15,MEDCHAL MALKAJG,2018-2019,rabi,6502,2886
+488,maize,3,HYDERABAD,2018-2019,rabi,0,0
+489,maize,25,RANGAREDDY,2018-2019,rabi,3268,762
+490,maize,29,VIKARABAD,2018-2019,rabi,6502,3295
+491,maize,12,MAHABUBNAGAR,2018-2019,rabi,6502,1206
+492,maize,7,JOGULAMBA,2018-2019,rabi,3543,2785
+493,maize,30,WANAPARTHY,2018-2019,rabi,6502,2958
+494,maize,18,NAGARKURNOOL,2018-2019,rabi,6502,667
+495,maize,19,NALGONDA,2018-2019,rabi,6502,4900
+496,maize,28,SURYAPET,2018-2019,rabi,6502,5824
+497,maize,10,KHAMMAM,2018-2019,rabi,6019,5892
+498,bengal gram,1,ADILABAD,2018-2019,kharif,0,1858
+499,bengal gram,11,KOMARAM BHEEM,2018-2019,kharif,0,1766
+500,bengal gram,13,MANCHERIAL,2018-2019,kharif,0,1569
+501,bengal gram,21,NIRMAL,2018-2019,kharif,0,1842
+502,bengal gram,22,NIZAMABAD,2018-2019,kharif,0,1824
+503,bengal gram,4,JAGTIAL,2018-2019,kharif,0,1569
+504,bengal gram,23,PEDDAPALLI,2018-2019,kharif,0,1569
+505,bengal gram,6,JAYASHANKAR,2018-2019,kharif,0,1569
+506,bengal gram,2,BHADRADRI,2018-2019,kharif,0,0
+507,bengal gram,16,MAHABUBABAD,2018-2019,kharif,0,0
+508,bengal gram,31,WARANGAL RURAL,2018-2019,kharif,0,1569
+509,bengal gram,32,WARANGAL URBAN,2018-2019,kharif,0,1569
+510,bengal gram,9,KARIMNAGAR,2018-2019,kharif,0,1569
+511,bengal gram,24,RAJANNA,2018-2019,kharif,0,1569
+512,bengal gram,8,KAMAREDDY,2018-2019,kharif,0,1617
+513,bengal gram,26,SANGAREDDY,2018-2019,kharif,0,1268
+514,bengal gram,14,MEDAK,2018-2019,kharif,0,1203
+515,bengal gram,27,SIDDIPET,2018-2019,kharif,0,2257
+516,bengal gram,5,JANGAON,2018-2019,kharif,0,1569
+517,bengal gram,33,YADADRI,2018-2019,kharif,0,1569
+518,bengal gram,15,MEDCHAL MALKAJG,2018-2019,kharif,0,1569
+519,bengal gram,3,HYDERABAD,2018-2019,kharif,0,0
+520,bengal gram,25,RANGAREDDY,2018-2019,kharif,0,1138
+521,bengal gram,29,VIKARABAD,2018-2019,kharif,0,1611
+522,bengal gram,12,MAHABUBNAGAR,2018-2019,kharif,0,1569
+523,bengal gram,7,JOGULAMBA,2018-2019,kharif,0,411
+524,bengal gram,30,WANAPARTHY,2018-2019,kharif,0,2140
+525,bengal gram,18,NAGARKURNOOL,2018-2019,kharif,0,1569
+526,bengal gram,19,NALGONDA,2018-2019,kharif,0,1569
+527,bengal gram,28,SURYAPET,2018-2019,kharif,0,1569
+528,bengal gram,10,KHAMMAM,2018-2019,kharif,0,1569
+529,bengal gram,1,ADILABAD,2018-2019,rabi,1858,1858
+530,bengal gram,11,KOMARAM BHEEM,2018-2019,rabi,1766,1766
+531,bengal gram,13,MANCHERIAL,2018-2019,rabi,1569,1569
+532,bengal gram,21,NIRMAL,2018-2019,rabi,1842,1842
+533,bengal gram,22,NIZAMABAD,2018-2019,rabi,1824,1824
+534,bengal gram,4,JAGTIAL,2018-2019,rabi,1569,1569
+535,bengal gram,23,PEDDAPALLI,2018-2019,rabi,1569,1569
+536,bengal gram,6,JAYASHANKAR,2018-2019,rabi,1569,1569
+537,bengal gram,2,BHADRADRI,2018-2019,rabi,0,0
+538,bengal gram,16,MAHABUBABAD,2018-2019,rabi,0,0
+539,bengal gram,31,WARANGAL RURAL,2018-2019,rabi,1569,1569
+540,bengal gram,32,WARANGAL URBAN,2018-2019,rabi,1569,1569
+541,bengal gram,9,KARIMNAGAR,2018-2019,rabi,1569,1569
+542,bengal gram,24,RAJANNA,2018-2019,rabi,1569,1569
+543,bengal gram,8,KAMAREDDY,2018-2019,rabi,1617,1617
+544,bengal gram,26,SANGAREDDY,2018-2019,rabi,1268,1268
+545,bengal gram,14,MEDAK,2018-2019,rabi,1203,1203
+546,bengal gram,27,SIDDIPET,2018-2019,rabi,2257,2257
+547,bengal gram,5,JANGAON,2018-2019,rabi,1569,1569
+548,bengal gram,33,YADADRI,2018-2019,rabi,1569,1569
+549,bengal gram,15,MEDCHAL MALKAJG,2018-2019,rabi,1569,1569
+550,bengal gram,3,HYDERABAD,2018-2019,rabi,0,0
+551,bengal gram,25,RANGAREDDY,2018-2019,rabi,1138,1138
+552,bengal gram,29,VIKARABAD,2018-2019,rabi,1611,1611
+553,bengal gram,12,MAHABUBNAGAR,2018-2019,rabi,1569,1569
+554,bengal gram,7,JOGULAMBA,2018-2019,rabi,411,411
+555,bengal gram,30,WANAPARTHY,2018-2019,rabi,2140,2140
+556,bengal gram,18,NAGARKURNOOL,2018-2019,rabi,1569,1569
+557,bengal gram,19,NALGONDA,2018-2019,rabi,1569,1569
+558,bengal gram,28,SURYAPET,2018-2019,rabi,1569,1569
+559,bengal gram,10,KHAMMAM,2018-2019,rabi,1569,1569
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
